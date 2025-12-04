@@ -1,7 +1,7 @@
 # Hospital Management System – Streamlit Application
+# Agenda Médica, Ordens de Serviço e Orçamentos
 
-- Agenda Médica, Ordens de Serviço e Orçamentos
-- Este projeto é um Sistema Hospitalar Web desenvolvido em Python + Streamlit, que permite gerenciar:
+Este projeto é um Sistema Hospitalar Web desenvolvido em Python + Streamlit, que permite gerenciar:
 - Cadastro de Pacientes
 - Cadastro de Profissionais de Saúde
 - Agendamento de Consultas
